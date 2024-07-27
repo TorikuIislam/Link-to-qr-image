@@ -1,0 +1,17 @@
+{
+  "name": "qr_image_from_link",
+  "version": "1.0.0",
+  "description": "It is qr image generator from website link adress.",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Torikul",
+  "license": "ISC",
+  "keywords": [],
+  "dependencies": {
+    "inquirer": "^10.1.2",
+    "qr-image": "^3.2.0"
+  }
+}
